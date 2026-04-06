@@ -1,3 +1,6 @@
+# Eraser Link
+https://app.eraser.io/workspace/9TFvgiGY78YLayXfFrab
+
 # Thrift Creator Store
 
 A full-stack e-commerce backend designed for creators selling **thrift (second-hand)** and **handmade** products. The system supports role-based admin management, product cataloguing, order lifecycle, payment tracking, refunds, shipment, and customer notifications — all modelled in a relational database.
